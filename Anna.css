@@ -1,0 +1,43 @@
+body {
+margin: auto;
+font-family: arial, helvetica, sans-serif ;
+background-color: rgb(175, 175, 245);
+}
+h1{
+    color: aquamarine;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    color: rgb(36, 36, 136);
+}
+img{
+    border-radius: 20px;
+}
+a{
+    color: blue;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+a :hover{
+    color: rgb(17, 17, 90);
+}
+ul{
+    list-style: square;
+}
+table{
+    background-color: rgb(94, 121, 240);
+    padding: 50px;
+    display: inline-block; 
+    margin: 50px;
+
+}
+button{
+    background-color: rgb(9, 84, 170);
+}
+
+button:hover{
+    background-color: mediumblue;
+}
